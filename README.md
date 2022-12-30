@@ -1,8 +1,6 @@
-Responsive Website Design (DDog) using bootstrap
+<h1>Responsive Landing Page Design</h1>
 
-<h1>Landing Page</h1>
-
-<p>Modern landing page design with CSS/HTML.</p>
+<p>Modern and responsive landing page design with CSS/HTML and bootstrap.</p>
 
 - [Clik to Live View](https://hamini01.github.io/Responsive-website-design-with-bootstrap-DDog-/)
 
